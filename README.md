@@ -1,35 +1,22 @@
-<<<<<<< HEAD
-# Simple C Line Editor
+# My Portfolio
 
-## Team Members
-* Member 1 Name (USN)
-* Member 2 Name (USN)
-* Member 3 Name (USN)
+Welcome to my portfolio repository!  
+This repo contains my practice problems, solutions, and projects.
 
-## Data Structure Choice
-* **Dynamic Array of Strings (`char** lines`)** for $O(1)$ fast indexing and efficient line access.
+## About Me
+I am a Computer Science student practicing coding challenges and building projects to strengthen my skills.
 
-## Implemented Features
-1. Insert a line (`I`)
-2. Delete a line (`D`)
-3. Display document (`P`)
-4. Save file (`S`)
+## Skills
+- C programming and debugging in VS Code
+- Data Structures & Algorithms practicing
+- Git and GitHub workflow
+- Problem solving in leetcode as beginner
 
-## Compilation & Run Instructions
-```bash
-gcc main.c -o editor
-./editor
-=======
-# LeetCode Solutions
+## Projects
+Here are some of the projects I’ve worked on:
 
-**Name:** G.Vijaya Lakshmi
-**Roll Number:** R25EJ035  
-
-Personal LeetCode practice log - part of B25GE0101 portfolio.
-
-## Table of Contents
-- [Arrays & Strings](./arrays-strings)
-- [Basic Algorithms](./basic-algorithms)
-- [Stacks](./stacks)
-- [Linked Lists](./linked-lists)
->>>>>>> 25bf9a69f369a622414e6e0201fff3fe60aed5cb
+- **Portfolio Website**: A simple site showcasing my coding journey and skills.
+- **Data Structures Practice**: Implementing linked lists, stacks, and trees in C.
+- **LeetCode Solutions**: Solving algorithm problems to strengthen problem‑solving skills.
+- **HackerRank Practiced Problems**: Completed mandatory problem‑solving tasks for portfolio building.
+- **Line Editor**: A mini text editor built in C to practice file handling and string manipulation.
