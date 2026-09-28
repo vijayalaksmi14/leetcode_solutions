@@ -1,0 +1,2 @@
+Welcome to the C Line Editor
+This is the second line
